@@ -1,10 +1,10 @@
 const menu = [
   { id: 1,
-    title: "American Coffee",
+    title: "MTDew: Baja Blast",
     category: "drink",
     price: 4.99,
     img:"./img/coffee.png",
-    desc: "Cupcake ipsum dolor. Sit amet sesame snaps sugar plum apple pie.",
+    desc: "A tropical lime-flavored soda with a smooth, refreshing taste and bright blue-green color.",
   }, 
   {
     id: 2,
